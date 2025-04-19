@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.icon-color {
+  color: #1c398e;
+}
+
+.bg-color {
+  background-color: #1c388e;
+}
+
+.icon-formatting {
+  width: 60px;
+  height: 60px;
+  color: #1c398e;
+}
+
+.isHidden {
+  display: none;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  display: none;
+}
