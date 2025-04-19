@@ -1,12 +1,65 @@
-# React + Vite
+Food Delivery Website README (Notes Format)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Name: Food Delivery Website
 
-Currently, two official plugins are available:
+Overview:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built using React
 
-## Expanding the ESLint configuration
+An online food ordering platform
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Allows browsing, searching, and ordering food
+
+Cart system with billing
+
+Responsive and user-friendly UI
+
+Features:
+
+Food item listing with categories and types
+
+Real-time item search
+
+Cart: Add, remove, and update quantities
+
+Dynamic billing system
+
+State management using:
+
+React Context API
+
+Redux Toolkit
+
+React Hooks
+
+Material UI Icons for visuals
+
+Responsive layout
+
+Deployed on Netlify
+
+Tech Stack:
+
+Frontend: React, JavaScript, HTML, CSS
+
+State Management: Context API & Redux Toolkit
+
+Local Setup Instructions:
+Clone the repo:
+git clone https://github.com/UttamBarve/Food-Delivery-Website.git
+cd Food-Delivery-Website
+
+Install dependencies:
+npm install
+
+Run the app:
+npm run dev
+
+Live Demo:
+uttam-restaurant.netlify.app
+
+Note:
+Built after completing React fundamentals
+Used both Context API & Redux to deepen state management knowledge
+Practical use of hooks and modern practices
+
